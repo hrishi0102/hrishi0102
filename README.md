@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrishi0102
-- 👀 I’m interested in Blockchain Dev
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Blockchain Dev, Augmented Reality
+- 🌱 I’m currently learning Solidity, Nextjs
 - 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 How to reach me hrishi0102business@gmail.com
 
