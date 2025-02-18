@@ -2,7 +2,7 @@
 
 ### About Me
 I'm a passionate and dedicated Full Stack Developer with keen interest in Blockchain. I love to dabble in new technologies and strive to develop innovative solutions that can make a difference.
-Currently learning System Design.
+Currently building and experimening with AI Agents and ZK-Proofs.
 
 ---
 ### Proof of Work
