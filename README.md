@@ -1,7 +1,7 @@
 # Hi there, I'm Hrishikesh Patil! 👋
 
 ### About Me
-A Full Stack Developer, 9X hackathon winner, experimenting and building in Web3 and AI.
+Dev Rel Engineer @PaymanAI, 9X hackathon winner, experimenting and building in Web3 and AI.
 
 ---
 ### Proof of Work
